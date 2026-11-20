@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "PRIMESMP-upKQ.aternos.me:19657",
+    "port": 19657,
     "version": "1.21.1"
   },
   "position": {
